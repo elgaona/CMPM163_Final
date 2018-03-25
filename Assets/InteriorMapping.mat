@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: InteriorMapping
+  m_Shader: {fileID: 4800000, guid: fa6d15fc077624e008eb9c0fbf5e1e44, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Ceiling:
+        m_Texture: {fileID: 2800000, guid: 23d64e12f31d940cfbb54a8feff76c06, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Exterior:
+        m_Texture: {fileID: 2800000, guid: 29bb2b46084e14bf4bf18b2de63a698b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Floor:
+        m_Texture: {fileID: 2800000, guid: 2e1bc48ea2abc4b75ac4aa3725e1f244, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f89d1be1416224795a5b36f3a6cb9233, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Wall_1:
+        m_Texture: {fileID: 2800000, guid: 9ad15df51a36f485a9c663aacda70c1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Wall_2:
+        m_Texture: {fileID: 2800000, guid: 004620b11480a4bd79aa9635a8310268, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Wall_3:
+        m_Texture: {fileID: 2800000, guid: d11473492c60f485d8199d752e81aa15, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Wall_4:
+        m_Texture: {fileID: 2800000, guid: e9368850a6dd44bb4a6325eee8915e74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Window:
+        m_Texture: {fileID: 2800000, guid: 1029c4b8fc70a4ea8983addeb1436637, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BuildingHeight: 0.5
+    - _Exposure: 1
+    - _Rotation: 0
+    - _xDist: 0.25
+    - _yDist: 0.125
+    - _zDist: 0.25
+    m_Colors:
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

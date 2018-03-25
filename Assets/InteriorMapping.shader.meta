@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fa6d15fc077624e008eb9c0fbf5e1e44
+timeCreated: 1521964602
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: f89d1be1416224795a5b36f3a6cb9233, type: 3}
+  - _Wall_1: {fileID: 2800000, guid: 9ad15df51a36f485a9c663aacda70c1c, type: 3}
+  - _Wall_2: {fileID: 2800000, guid: 004620b11480a4bd79aa9635a8310268, type: 3}
+  - _Wall_3: {fileID: 2800000, guid: d11473492c60f485d8199d752e81aa15, type: 3}
+  - _Wall_4: {fileID: 2800000, guid: e9368850a6dd44bb4a6325eee8915e74, type: 3}
+  - _Floor: {fileID: 2800000, guid: 2e1bc48ea2abc4b75ac4aa3725e1f244, type: 3}
+  - _Ceiling: {fileID: 2800000, guid: 23d64e12f31d940cfbb54a8feff76c06, type: 3}
+  - _Exterior: {fileID: 2800000, guid: 29bb2b46084e14bf4bf18b2de63a698b, type: 3}
+  - _Window: {fileID: 2800000, guid: 1029c4b8fc70a4ea8983addeb1436637, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
